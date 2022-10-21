@@ -9,6 +9,9 @@ Abstract:
                   Each layer provides a different and additional protection to provide solutions and prevention to security issues and risks associated with manipulation, data intervention, destruction. OSI model is the first standard model for network communications and got adopted by major computer and telecommunication companies. This model reduces complications and standardizes interfaces. It’s a long process to fit protocol. We have way more advantages from OSI model than we assume. 
 
              Technology vendors and developers mostly uses the OSI model. The main purpose of OSI reference model is to promote a clear framework that describes the functions of networking or telecommunications system. OSI model plays a major role in security issues and provides solutions.  
-                 
+             
+ Reference links:
+ https://essays.io/osi-model-research-paper-example/
+              
                  
                  
